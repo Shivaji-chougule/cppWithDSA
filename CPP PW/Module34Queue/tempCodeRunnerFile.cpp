@@ -1,0 +1,2 @@
+ reverse(q);
+    display(q);
