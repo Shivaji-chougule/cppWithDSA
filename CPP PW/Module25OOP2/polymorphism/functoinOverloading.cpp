@@ -1,6 +1,6 @@
 // function overloading means creating functions with same name
 // with different parameters.
-// its actualy compile time polymorphism.
+
 #include <iostream>
 using namespace std;
     //area of circle
